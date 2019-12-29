@@ -13,6 +13,8 @@
    	-6
    	-2 6
 
+-	The largest vector size is 9
+
 -	When the user enters a line starting with 0 (zero), the program 
    	terminates. The program also terminates when the end of input is
    	reached (EOF, which is ctrl-z for windows).
